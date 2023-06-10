@@ -1,0 +1,15 @@
+.container {
+  width: 200px;
+  height: 300px;
+  border: 1px solid black;
+  padding: 10px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.item {
+  background-color: #e5e5e5;
+  margin-bottom: 10px;
+  padding: 5px;
+  cursor: move;
+}
